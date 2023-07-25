@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.actionsWrapper {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.actionsWrapper p {
+    cursor: pointer;
+    cursor: pointer;
+    background: aliceblue;
+    padding: 1rem;
+    border-radius: 10px;
+}
